@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans|Poiret+One|Roboto|Staatliches&display=swap');
+
+
+.title-tag{
+    margin: 0;
+    padding: 15px;
+    text-align: left;
+    padding-left: 50px;
+    color: #262626;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900 !important;
+    font-size: 50px;
+    background-color: #F2F2F2;
+}
+.line{
+    
+    background-color:#F24464 ;
+    height: 5px;
+    
+}

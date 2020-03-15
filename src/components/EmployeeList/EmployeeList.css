@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    color: #262626;
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+}
+.employee-list-body{
+    
+}
+.short-line{
+    height: 2px;
+    background-color: #F24464;
+    margin-left: 15px;
+    margin-right: 15px;
+}

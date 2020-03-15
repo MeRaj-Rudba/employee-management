@@ -1,0 +1,29 @@
+.main-body{
+    margin-top: 20;
+    background-color: #f0f1f2;
+    text-align: center;
+    
+    
+}
+.employee{
+    border-radius: 25px;
+    float: left;
+    width: 60%;
+    margin-left: 20px;
+    margin-top: 20px;
+    padding-top: 4%;
+    padding-left: 4%;
+    padding-right: 4%;
+    
+    background-color: #F0F1F2;
+}
+.employee-list{
+    border-radius: 25px;
+    padding-top: 4%;
+    float: right;
+    width: 35%;
+    
+    margin-top: 20px;
+    margin-right: 20px;
+    background-color: #F0F1F2;
+}
